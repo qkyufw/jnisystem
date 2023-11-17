@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="test.testGui01">
+  <grid id="27dc6" binding="welcome" custom-create="true" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="-6" y="97" width="644" height="368"/>
+    </constraints>
+    <properties>
+      <font name="JetBrains Mono" size="8" style="0"/>
+      <foreground color="-8878260"/>
+    </properties>
+    <clientProperties>
+      <html.disable class="java.lang.Boolean" value="true"/>
+    </clientProperties>
+    <border type="bevel-lowered" title="登录" title-justification="2" title-position="1">
+      <font size="26" style="1"/>
+      <title-color color="-8878260"/>
+      <size top="40" left="40" bottom="40" right="40"/>
+    </border>
+    <children>
+      <component id="65d7f" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <columns value="20"/>
+          <horizontalAlignment value="10"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="35767" class="javax.swing.JLabel" binding="uid">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <text value="学号"/>
+        </properties>
+      </component>
+      <component id="14eae" class="javax.swing.JLabel" binding="pwd">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <text value="密码"/>
+        </properties>
+      </component>
+      <component id="be94a" class="javax.swing.JButton" binding="login">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <text value="登录"/>
+        </properties>
+      </component>
+      <component id="35eaa" class="javax.swing.JButton" binding="register">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <text value="注册"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

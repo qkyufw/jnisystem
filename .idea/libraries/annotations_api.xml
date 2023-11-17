@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="annotations-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/catalina-ssi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/ecj-4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tool/tomcat/apache-tomcat-9.0.68/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

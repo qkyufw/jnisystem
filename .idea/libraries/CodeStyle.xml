@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CodeStyle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CodeStyle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/lib/CodeStyle.jar!/" recursive="false" />
+  </library>
+</component>
